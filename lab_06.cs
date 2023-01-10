@@ -2,7 +2,7 @@
 
 namespace lab_06
 {
-    class Program
+    class lab_06
     {
         static char [] ArrRev(ref char [] arr)
         {
