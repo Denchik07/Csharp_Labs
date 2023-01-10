@@ -1,0 +1,15 @@
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\bin\Debug\net6.0\lab04.exe
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\bin\Debug\net6.0\lab04.deps.json
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\bin\Debug\net6.0\lab04.runtimeconfig.json
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\bin\Debug\net6.0\lab04.dll
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\bin\Debug\net6.0\lab04.pdb
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\lab04.csproj.AssemblyReference.cache
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\lab04.AssemblyInfoInputs.cache
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\lab04.AssemblyInfo.cs
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\lab04.csproj.CoreCompileInputs.cache
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\lab04.dll
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\refint\lab04.dll
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\lab04.pdb
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\lab04.genruntimeconfig.cache
+E:\Soft\JetBrains Rider 2022.2.3\PROJECTS\lab04\lab04\obj\Debug\net6.0\ref\lab04.dll
