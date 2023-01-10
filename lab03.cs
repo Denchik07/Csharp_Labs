@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-class Program
+class lab03
 {
     static void Main(string[] args)
     {
