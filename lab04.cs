@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class lab04
 {
     static void removeEl(ref int[] array, int index)
     {
